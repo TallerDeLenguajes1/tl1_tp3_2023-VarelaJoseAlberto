@@ -4,7 +4,7 @@
 #include <string.h>
 
 #define MAX_NOMBRES 5
-#define MAX_LONGITUD_NOMBRE 12
+#define MAX_LONGITUD_NOMBRE 50
 
 int main(int argc, char const *argv[]) {
     char *nombres[MAX_NOMBRES];
